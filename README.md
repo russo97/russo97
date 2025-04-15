@@ -1,7 +1,7 @@
-## Hi there 👋
+### Hey folks! 👋
 
 <!--
-**russo97/russo97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**antonkomarev/antonkomarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Wanderson Silva. I've been using GitHub to host my projects for many years.
+
+<a href="https://github.com/russo97/russo97">
+    <img src="https://komarev.com/ghpvc/?username=russo97&style=for-the-badge">
+</a>
